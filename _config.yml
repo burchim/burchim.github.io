@@ -48,6 +48,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Currently pursuing a master's degree in Computer Science at ESIEE Paris, I plan to pursue a PhD after graduation.
+  
   My interests include Spoken Language Processing, Natural Language Processing, Computer Vision and Reinforcement Learning.
 
 content:
