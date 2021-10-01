@@ -47,7 +47,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Computer Science Engineering student, I am looking for a PhD position in the area of Machine Learning. I recently pursued a research internship at Orange Labs where I developed efficient end-to-end learning systems for streaming and offline applications in the area of Automatic Speech Recognition. My interests include Audio and Speech Processing, Computer Vision, Natural Language Processing, Self-Supervised Learning and Robotics.
+  Currently pursuing a master's degree in Computer Science at ESIEE Paris, I plan to pursue a PhD after graduation.
+  My interests include Spoken Language Processing, Natural Language Processing, Computer Vision and Reinforcement Learning.
 
 content:
   - title: Publications
